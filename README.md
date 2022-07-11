@@ -1,6 +1,7 @@
 # Uber-Data-Analysis-in-R
-Dans un projet de data analyse, la data storytelling est un élément important du machine learning grâce auquel les entreprises peuvent comprendre le contexte de diverses opérations.  Avec l'aide de la visualisation, les entreprises peuvent profiter de l'avantage de comprendre les données complexes et obtenir des informations qui les aideront à prendre des décisions. A travers ces lignes de codes vous apprendrez à mettre en œuvre le ggplot2 sur le jeu de données Uber Pickups et, à la fin, vous maîtriserez l'art de la visualisation des données en R. J’espère que ce projet vous plaira.  
-
+Dans un projet de data analyse, la data storytelling est un élément important du machine learning grâce auquel les entreprises peuvent comprendre le contexte de diverses opérations.  Avec l'aide de la visualisation, les entreprises peuvent profiter de l'avantage de comprendre les données complexes et obtenir des informations qui les aideront à prendre des décisions. A travers ces lignes de codes vous apprendrez à mettre en œuvre le ggplot2 sur le jeu de données Uber Pickups et, à la fin, vous maîtriserez l'art de la visualisation des données en R. 
+J’espère que ce projet vous plaira.  
+*************************************************************************************************
 Les bibliothèques importantes que nous utiliserons sont :  
 **ggplot2**: C'est l'épine dorsale de ce projet. ggplot2 est la bibliothèque de visualisation de données la plus populaire et la plus utilisée pour créer des graphiques de visualisation esthétiques.  
 **ggthemes**: C'est un complément à notre bibliothèque principale ggplot2. Avec ceci, nous pouvons mieux créer des thèmes et des échelles supplémentaires avec le paquet ggplot2 principal.  
